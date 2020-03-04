@@ -28,7 +28,7 @@ url: "https://www.larskromat.de" # the base hostname & protocol for your site, e
 xing_profile: https://www.xing.com/profile/Lars_Kromat
 linkedin_profile: https://www.linkedin.com/in/larskromat-de
 github_username: lkromat
-github_repository: https://github.com/lkromat/larskromat.de
+github_repository: https://github.com/lkromat/website
 
 # Build settings
 # theme: minima
