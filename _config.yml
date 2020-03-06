@@ -30,6 +30,10 @@ linkedin_profile: https://www.linkedin.com/in/larskromat-de
 github_username: lkromat
 github_repository: https://github.com/lkromat/website
 
+# No Auto-IDs in Headlines
+kramdown:
+  auto_ids: false
+
 # Build settings
 # theme: minima
 # plugins:
