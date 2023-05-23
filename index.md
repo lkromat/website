@@ -9,7 +9,7 @@ layout: default
 
 ## Moin. Ich bin Lars.
 
-Ich bin als Senior Designer bei [Computec Media](https://www.computec.de "Computec Website") in Fürth verantwortlich für die grafische Gestaltung diverser Videospiele- und Linux-Magazine.
+Ich war als Senior Designer bei [Computec Media](https://www.computec.de "Computec Website") in Fürth verantwortlich für die grafische Gestaltung diverser Videospiele- und Linux-Magazine. Seit April 2023 bin ich als Fachinformatiker im "Team Digitale Schule" der Stadt Nürnberg tätig.
  
 ## Anderswo
 
